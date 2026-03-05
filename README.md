@@ -1,10 +1,11 @@
-# Prompt Library
+# Promptlib - The prompt library you were looking for
 
-A curated collection of my favorite AI prompts organized by category. Each file contains a single, focused prompt designed to leverage AI capabilities for specific domains and use cases.
+Promptlib is a curated collection of useful AI prompts organized by category. Each file contains a single, focused prompt designed to leverage AI capabilities for specific domains and use cases.
+This project wants to be a collaborative effort to gather together all our favorite prompts for all uses.
 
 ## 📁 Structure
 
-- **Folders**: Different categories of prompts
+- **Folders**: Different groups and categories of prompts
 - **Files**: Individual prompts (one prompt per file)
 
 ## 📑 Prompts Index
